@@ -54,6 +54,7 @@ const MainMenu =() =>(
                   {item.title}
                 </MenuItem>
              ))}
+
              </MainMenuInner>
          </MainMenuWrapper>
      )}   />
