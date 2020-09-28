@@ -33,7 +33,7 @@ module.exports = {
       
     },
     {
-      resolve: "gatsby-source-wordpress-experimental",
+      resolve: "gatsby-source-wordpress",
       options: {
         baseUrl: "gatsby-wordpress.local",
         protocol: "http",
